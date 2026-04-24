@@ -8,10 +8,10 @@
         default_layer {
             display-name = "Base";
             bindings = <
-                &kp A &kp B &kp C &kp D &kp E
-                &kp F &kp G &kp H &kp I &kp J
-                &kp K &kp L &kp M &kp N &kp O
-                &kp P &kp Q &kp R &kp S &kp T
+                &kp C &kp K &kp I &kp T &kp W
+                &kp Q &kp Y &kp S &kp B &kp F3
+                &kp LEFT &kp U &kp DOWN &kp UP &kp RIGHT
+                &kp J &kp V &kp LC(M) &kp O &kp A
             >;
         };
     };
